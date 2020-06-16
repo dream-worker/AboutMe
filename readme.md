@@ -18,18 +18,35 @@
 
 ---
 
+# 专业能力
+
+1. 前端基础能力：`HTML、CSS、JavaScript、ES6` 及浏览器兼容;
+2. `Vue` 框架相关：`Vue、Vue-Router、Vuex` 等相关技术栈，有 `PC` 端及移动端开发经验及在线项目;
+3. 移动 `WEB` 相关：常用的屏幕适配方案，拥有跨平台开发及移动端兼容开发经验;
+4. 小程序类相关：`Uni-app` 小程序开发框架，能够开发多端小程序。有百度小程序、头条小程序、快应用、`H5` 等阅读产品在线项目;
+5. 构建工程相关：前端常用工程工具，如 `WebPack、Bable、Yarn、Npm、Git、Jenkins` 等，拥有 `Webpack` 打包优化相关实践经验;
+6. 熟悉前端组件化、模块化开发能力，并有具体实践;
+7. 掌握 `HTTP、TCP、UDP` 协议、浏览器缓存等网络知识;
+8. 掌握常用 `WEB` 攻击，如 `XSS、CSRF` 等，并能有效预防;
+9. 熟练使用 `Echarts、Highcharts、Three.js` 等数据可视化工具;
+10. 掌握 `Node.js、Express` 开发框架，能够开发 `Node.js` 服务端应用;
+11. 了解常用 `Linux` 命令、`Nginx、Fiddler、Charles`等;
+12. 具备阅读英文文档的能力。
+
 # 工作经历
 
 ## 北京趣读趣写科技发展有限公司
 
 > 2017 年 2 月 ~ 至今
+-
 
+# 项目经历
 
 ### 百度小程序(追书大神)
 
 > 获得百度鱼跃计划第三季优秀项目奖
 
-<!--（uni-app可以研究下打包成其他）-->
+<!--（uni-app可以研究下打包成其他） 支付宝微信-->
 
 #### 客户端 - 小程序
 
@@ -37,9 +54,9 @@
 - 组件封装、样式抽离
 - 性能优化、提高评级（白屏6s、接口、图片、css 等）
 - 相关生态：udid、地理位置获取、联合登陆、百度收银台、点评赞互动组件、消息、关注、信息流、sitemap
-- 技术栈 `yarn、uni-app、flex、vue.js、babel、eslint、webpack、sass`
+- 技术栈 `Yarn、Uni-app、Flex、Vue、Bable、Eslint、Webpack、Sass`
 
-#### 服务端 - nodejs
+#### 服务端 - Nodejs
 
  -
  -
@@ -51,7 +68,7 @@
 - 为避免上线后接口不稳定造成大面积事故，提出并协助测试增加接口监控
 - 重新梳理接口：在用接口中存在冗余字段过多、耗时过长、一个字段一个接口、后端请求多个接口后再返回等问题，并梳理出文档；
 - 快应用开发、提测、遇到的问题梳理
-- 技术栈 `npm、uni-app、flex、vue.js、babel、eslint、webpack、sass`
+- 技术栈 `Npm、Uni-app、Flex、Vue、Bable、Eslint、Webpack、Sass`
 
 
 ### DSP 广告投放系统
@@ -81,25 +98,25 @@
 - 权限管理：管理员、开发、测试、各方业务相关人员等多种角色及权限的管理；
 - 第三方登陆：使用 `Google Authenticator` 实现双向认证登陆报表系统；
 <!--- 组件：视图-->
-- 技术栈 `Vue、Ant-design、Vue-router、Vuex、axios、ES6、less、webpack、Jenkins、echarts、yarn、git` 等。
+- 技术栈 `Vue、Ant-design、Vue-router、Vuex、Axios、ES6、Less、Webpack、Jenkins、Echarts、Yarn、Git` 等。
 
 
 ### [鼎阅点效官网](http://dingyueads.com/)
 
 - 传媒广告业务对外的门户网站，旨在向客户介绍公司、开发者、产品服务及联系方式;
 - 构建开发：独立负责 `鼎阅点效` 项目技术架构、选型、构建、需求开发及维护;
-- 3d粒子：首页 `banner` 利用 `3d` 粒子动态跟随鼠标的效果，增强科技感和视觉冲击;
-- 动效：使用 `animation、gif、vedio` 等不同形式的动态效果，修饰文案活跃气氛;
+- 3d粒子：首页 `Banner` 利用 `3D` 粒子动态跟随鼠标的效果，增强科技感和视觉冲击;
+- 动效：使用 `Animation、Gif、Vedio` 等不同形式的动态效果，修饰文案活跃气氛;
 - 百度地图：定位公司所在地，直观真实且可跟随手势操作;
-- 打包上传：`build` 完成后，静态资源自动上传至 `oss`;
+- 打包上传：`Build` 完成后，静态资源自动上传至 `OSS`;
 - 兼容适配多浏览器及多平台；
-- 技术栈： `Vue、Vue-router、less、px2rem、css3、base64、webpack、oss、npm、there.js` 等。
+- 技术栈： `Vue、Vue-router、Less、px2rem、CSS3、Base64、Webpack、OSS、Npm、Three.js` 等。
 
 ### [鼎阅集团官网](http://www.dingyuegroup.cn)
 
 - 集团官方门户网站：介绍独家的签约作品、商务合作、联系方式等
 - 独立完成构建、开发、打包部署等任务；
-- 利用 `rem` + 百分比 实现
+- 利用 `REM` + 百分比 实现
 
 
 # 兴趣爱好
