@@ -12,7 +12,6 @@
 - 本科 / 哈尔滨理工大学
 - 工作年限：2016.7 - 至今
 - Github：[http://github.com/dream-worker](https://github.com/dream-worker)
-
 - 期望职位：`Web` 前端研发
 - 期望城市：北京
 
