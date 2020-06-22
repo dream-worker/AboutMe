@@ -25,7 +25,7 @@
 4. 小程序类相关：`Uni-app` 小程序开发框架，能够开发多端小程序。有百度小程序、头条小程序、快应用、`H5` 等阅读产品在线项目;
 5. 构建工程相关：前端常用工程工具，如 `WebPack、Bable、Yarn、Npm、Git、Jenkins` 等，拥有 `Webpack` 打包优化相关实践经验;
 6. 熟悉前端组件化、模块化开发能力，并有具体实践;
-7. 掌握 `HTTP、TCP、UDP` 协议、浏览器缓存等网络知识;
+7. 了解 `HTTP、TCP、UDP` 协议，掌握浏览器缓存等网络知识;
 8. 掌握常用 `WEB` 攻击，如 `XSS、CSRF` 等，并能有效防御;
 9. 熟练使用 `Echarts、Highcharts、Three.js` 等数据可视化工具;
 10. 掌握 `Node.js、Express` 开发框架，能够开发 `Node.js` 服务端应用;
@@ -40,6 +40,13 @@
 
 
 > 2017 年 2 月 ~ 至今
+
+
+## 上海管易软件科技有限公司
+
+
+> 2016/07 -- 2017/02
+
 
 ---
 
@@ -59,7 +66,7 @@
 - 性能优化、提高评级
 <!-- （白屏6s、接口、图片、css 等） -->
 - 相关生态：设备唯一标识、地理位置获取、联合登陆、百度收银台、广告组件、点评赞互动组件、模板消息、关注、信息流、sitemap等
-- 技术栈 `Yarn、Uni-app、Flex、Vue、Bable、Eslint、Sass`
+- 技术栈 `Yarn、Uni-app、Flex、Vue、Crypto、Bable、Eslint、Sass`
 
 #### 服务端 - Nodejs
 
@@ -77,7 +84,7 @@
 - 接入微信、支付宝支付渠道
 - 发起并主动推进后端接口优化、自动化测试接口监控
 - 配合产品梳理迭代版本需求、调研快应用新增能力
-- 技术栈 `Npm、Flex、Vue、Bable、Eslint、Less`
+- 技术栈 `Npm、Flex、Vue、Crypto、Bable、Eslint、Less`
 
 
 ### DSP 广告投放系统
