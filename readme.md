@@ -1,7 +1,7 @@
 # 联系方式
 
 - 手机：[17553029918](tel:17553029918)
-- Email：[l@ihoey.com](mailto:l@ihoey.com)
+- Email：[l@ihoey.com](mailto:julieyang0718@163.com)
 - 微信：[17553029918](tel:17553029918)
 
 ---
